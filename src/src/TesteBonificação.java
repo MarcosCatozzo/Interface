@@ -3,7 +3,7 @@ package src;
 public class TesteBonificação {
     public static void main(String[] args) {
 
-        Funcionario funcionario = new Funcionario();
+        Funcionario funcionario = new Gerente();
         funcionario.setNome("Marcos");
         funcionario.setCpf("467.394.498.48");
         funcionario.setSalario(1500);
