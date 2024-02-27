@@ -1,6 +1,6 @@
 package src;
 
-public class Gerente extends FuncionarioAutenticado {
+public class Gerente extends Funcionario {
 
     private static int senha;
 
